@@ -4,8 +4,6 @@ A Wan2GP plugin that enables dynamic prompt templating using `__template_path__`
 
 Updated for and tested on Wan2GP 10.90.
 
-- **Template generation.
-
 ## Features 
 - **Syntax**: Use `__folder/subfolder/file__` in prompts to inject random lines
 - **Wildcard Support**: 
