@@ -1,0 +1,9 @@
+{
+  "name": "Template Injector",
+  "author": "Andrey Nikiforov",
+  "version": "1.0.0",
+  "description": "Injects random lines from template files into prompts using __template_path__ syntax",
+  "date": "2026-02-16",
+  "wan2gp_version": "",
+  "uninstallable": true
+}
